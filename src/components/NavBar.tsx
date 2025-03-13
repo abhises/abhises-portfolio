@@ -20,7 +20,7 @@ const NavBar = () => {
             ))}
           </ul>
         </nav>
-        <div className="col-span-1 flex justify-end items-center mx-3">
+        <div className="col-span-1 flex justify-end items-center mx-2">
           <ModeToggle />
         </div>
       </div>
