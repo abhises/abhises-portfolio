@@ -15,31 +15,31 @@ const Hero = () => {
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
-      src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Passionate React.js developer with 4 years of experience, mastering Context API, Redux, Bootstrap, Material-UI, Tailwind CSS, Shadcn, and Aternity. Crafting seamless user interfaces and scalable web solutions.",
+      name: "React Js/Next Js",
+      designation: "4 years experience in react 2 month experince in next ",
+      src: "/assets/react.jpg",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
-      src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Experienced Express.js developer with 2 years of expertise in building robust backend APIs, handling authentication, middleware, and database integration for scalable and efficient web applications.",
+      name: "Node/Express",
+      designation: "2 year experience in express",
+      src: "/assets/express.jpg",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Experienced Laravel developer with 1 years of expertise in building dynamic web applications, handling RESTful APIs, database migrations, and crafting efficient backend solutions with clean and scalable code.",
+      name: "Php/Laravel",
+      designation: "1 year experince in laravel",
+      src: "/assets/laravel.jpg",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://images.unsplash.com/photo-1624561172888-ac93c696e10c?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Experienced Django developer with 1 years of expertise in building scalable web applications, RESTful APIs, and efficient backend solutions with robust security and clean architecture.",
+      name: "Python/Django/FastApi",
+      designation: "1 year experince in Django and can work in fastapi too",
+      src: "/assets/django.jpg",
     },
   ];
   return (
